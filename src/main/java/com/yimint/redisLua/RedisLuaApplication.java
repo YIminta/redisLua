@@ -1,4 +1,4 @@
-package com.yimit.redisLua;
+package com.yimint.redisLua;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
