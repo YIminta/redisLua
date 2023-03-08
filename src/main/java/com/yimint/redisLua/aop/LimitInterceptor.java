@@ -45,7 +45,7 @@ public class LimitInterceptor {
 
     /**
      * @param pjp
-     * @author fu
+     * @author yimint
      * @description 切面
      * @date 2020/4/8 13:04
      */
@@ -94,7 +94,7 @@ public class LimitInterceptor {
     }
 
     /**
-     * @author fu
+     * @author yimint
      * @description 编写 redis Lua 限流脚本
      * @date 2020/4/8 13:24
      */
@@ -118,7 +118,7 @@ public class LimitInterceptor {
 
 
     /**
-     * @author fu
+     * @author yimint
      * @description 获取id地址
      * @date 2020/4/8 13:24
      */

@@ -19,7 +19,7 @@ public class LimiterController {
     private static final AtomicInteger ATOMIC_INTEGER_3 = new AtomicInteger();
 
     /**
-     * @author fu
+     * @author yimint
      * @description
      * @date 2020/4/8 13:42
      */
@@ -31,7 +31,7 @@ public class LimiterController {
     }
 
     /**
-     * @author fu
+     * @author yimint
      * @description
      * @date 2020/4/8 13:42
      */
@@ -43,7 +43,7 @@ public class LimiterController {
     }
 
     /**
-     * @author fu
+     * @author yimint
      * @description 
      * @date 2020/4/8 13:42
      */
